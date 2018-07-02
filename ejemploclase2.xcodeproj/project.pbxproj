@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2CB96E220EABDDA007C1CB8 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2CB96E120EABDDA007C1CB8 /* OtherViewController.swift */; };
 		E2DEA5DB208D7FB200FC3C2C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DEA5DA208D7FB200FC3C2C /* AppDelegate.swift */; };
 		E2DEA5DD208D7FB200FC3C2C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DEA5DC208D7FB200FC3C2C /* ViewController.swift */; };
 		E2DEA5E0208D7FB200FC3C2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2DEA5DE208D7FB200FC3C2C /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E2CB96E120EABDDA007C1CB8 /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 		E2DEA5D7208D7FB200FC3C2C /* ejemploclase2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ejemploclase2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DEA5DA208D7FB200FC3C2C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2DEA5DC208D7FB200FC3C2C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				E2DEA5DA208D7FB200FC3C2C /* AppDelegate.swift */,
 				E2DEA5DC208D7FB200FC3C2C /* ViewController.swift */,
+				E2CB96E120EABDDA007C1CB8 /* OtherViewController.swift */,
 				E2DEA5DE208D7FB200FC3C2C /* Main.storyboard */,
 				E2DEA5E1208D7FB200FC3C2C /* Assets.xcassets */,
 				E2DEA5E3208D7FB200FC3C2C /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2DEA5DD208D7FB200FC3C2C /* ViewController.swift in Sources */,
+				E2CB96E220EABDDA007C1CB8 /* OtherViewController.swift in Sources */,
 				E2DEA5DB208D7FB200FC3C2C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
