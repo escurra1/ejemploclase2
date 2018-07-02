@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Xcode10")
+        print("iOS12")
     }
 
     override func didReceiveMemoryWarning() {
